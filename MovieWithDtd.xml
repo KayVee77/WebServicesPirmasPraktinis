@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<Movie>
+    <name>Name </name>
+    <movieLength>Movie length </movieLength>
+    <categoryName>
+        <categoryName2>Category </categoryName2>
+    </categoryName>
+    <Actors>
+        <Actor>
+            <lastName>Last name</lastName>
+            <name>First name </name>
+        </Actor>
+        <Actor>
+            <lastName>Last name2</lastName>
+            <name>First name2</name>
+        </Actor>
+        <Actor>
+            <lastName>Last name3</lastName>
+            <name>First name3</name>
+        </Actor>
+        <Actor>
+            <lastName>Last name4</lastName>
+            <name>First name4</name>
+        </Actor>
+        <Actor>
+            <lastName>Last name5</lastName>
+            <name>First name5</name>
+        </Actor>
+    </Actors>
+    <languageName>
+        <languageName2>Language</languageName2>
+    </languageName>
+    <producer>
+        <lastName>Last name</lastName>
+        <name>Name</name>
+    </producer>
+</Movie>

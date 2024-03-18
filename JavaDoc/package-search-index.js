@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lt.eif.viko.kvisciuna.movieapp"},{"l":"lt.eif.viko.kvisciuna.movieapp.db"},{"l":"lt.eif.viko.kvisciuna.movieapp.menu"},{"l":"lt.eif.viko.kvisciuna.movieapp.model"},{"l":"lt.eif.viko.kvisciuna.movieapp.server"},{"l":"lt.eif.viko.kvisciuna.movieapp.util"}];updateSearchResults();
